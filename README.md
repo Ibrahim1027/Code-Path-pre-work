@@ -37,7 +37,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 Here is a walkthrough of the Game!
-![](https://i.imgur.com/Yi3lbJB.gif)
+
+[](https://i.imgur.com/Yi3lbJB.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
