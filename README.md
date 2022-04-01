@@ -60,7 +60,7 @@ If I had a few more hours, I would spend time on randomizing the sequences for e
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/e1734c2478ba40ed9c788cdb232ae24d)
 
 
 ## License
